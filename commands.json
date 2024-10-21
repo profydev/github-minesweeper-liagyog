@@ -25,6 +25,7 @@
 	  "clear C1",
 	  "flag C2",
 	  "flag D1",
-	  "flag H1"
+	  "flag H1",
+	  "end"
   ]
 }
