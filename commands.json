@@ -10,7 +10,11 @@
 	  "clear A4",
 	  "clear B4",
 	  "clear B5",
+<<<<<<< HEAD
 	  "claer C5",
+=======
+	  "clear C5",
+>>>>>>> 608e0fd (clear A2)
 	  "flag D5",
 	  "flag E5"
   ]
